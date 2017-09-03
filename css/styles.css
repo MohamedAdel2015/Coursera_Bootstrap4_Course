@@ -44,3 +44,19 @@ body {
     border-bottom: 1px solid #DDD;
     padding: 10px;
 }
+
+body.modal-open {
+    overflow:inherit;
+    padding-right:inherit !important;
+}
+
+.link:hover {
+    cursor: pointer;
+}
+
+.modal {
+    width: 50%;
+    margin-left: 25%;
+    min-width: 200px;
+    overflow: hidden;
+}
