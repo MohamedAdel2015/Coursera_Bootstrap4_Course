@@ -70,6 +70,29 @@ body.modal-open {
   overflow: hidden;
 }
 
+.modal-content {
+
+  .modal-header {
+    background: $background-dark;
+
+    .modal-title {
+      color: floralwhite;
+    }
+
+    .close {
+      color: floralwhite;
+    }
+  }
+
+  .modal-body {
+    background: $background-pale;
+  }
+
+  .modal-footer {
+    background: $background-light;
+  }
+}
+
 .carousel {
   background: $background-dark;
 
