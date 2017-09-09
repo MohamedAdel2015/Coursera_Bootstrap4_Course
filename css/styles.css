@@ -75,3 +75,9 @@ body.modal-open {
     left: 0;
     min-height: 250px;
 }
+
+#carouselButtons {
+    right: 0;
+    position: absolute;
+    bottom: 0;
+}
