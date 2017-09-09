@@ -76,7 +76,7 @@ body.modal-open {
     min-height: 250px;
 }
 
-#carouselButtons {
+#carousel-button {
     right: 0;
     position: absolute;
     bottom: 0;
